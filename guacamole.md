@@ -2,7 +2,7 @@
 # Guacamole recipe
 
 ## Ingredients
-- Avocado
+- Avocado x2
 - Coriander
 - Red onion
 - Lemon juice
